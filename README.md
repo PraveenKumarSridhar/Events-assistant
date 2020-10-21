@@ -1,7 +1,7 @@
 # Events-assistant
 <hr/>
 
-<img align="center" alt="robo assistant" src="https://raw.githubusercontent.com/PraveenKumarSridhar/Events-assistant/main/assets/robo-assistant.PNG" />
+<img align="center" alt="robo assistant" src="https://raw.githubusercontent.com/PraveenKumarSridhar/Events-assistant/main/assets/robo-assistant.png" />
 
 ## Introduction 
 An assistant that will read out the scheduled events in your google calender at a specified time during the day.
