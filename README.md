@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/PraveenKumarSridhar/Events-assistant?style=for-the-badge)](https://github.com/PraveenKumarSridhar/Events-assistant/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PraveenKumarSridhar/Events-assistant?style=for-the-badge)](https://github.com/PraveenKumarSridhar/Events-assistant/network)
 [![GitHub stars](https://img.shields.io/github/stars/PraveenKumarSridhar/Events-assistant?style=for-the-badge)](https://github.com/PraveenKumarSridhar/Events-assistant/stargazers)
-[![GitHub license](https://img.shields.io/github/license/PraveenKumarSridhar/Events-assistant)](https://github.com/PraveenKumarSridhar/Events-assistant/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/PraveenKumarSridhar/Events-assistant?style=for-the-badge)](https://github.com/PraveenKumarSridhar/Events-assistant/blob/main/LICENSE)
 
 <img align="center" alt="robo assistant" src="https://raw.githubusercontent.com/PraveenKumarSridhar/Events-assistant/main/assets/robo-assistant.png" />
 
